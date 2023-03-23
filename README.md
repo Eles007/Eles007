@@ -1,8 +1,4 @@
 <h1 align="center">Hi there 👋, here is information about me</h1>
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eles007&repo=github-readme-stats" />
-</p>
 <!--
 **Eles007/Eles007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
