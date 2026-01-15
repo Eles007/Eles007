@@ -1,17 +1,71 @@
-<h1 align="center">Hi there 👋, here is information about me</h1>
-<!--
-**Eles007/Eles007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Привет 👋 Меня зовут Эльес</h1>
+<h3 align="center">Junior PHP / Web-разработчик</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Обо мне
+- 📚 Активно изучаю backend и веб-разработку
+- 🔧 Практикуюсь на учебных и pet-проектах
+- 📈 Регулярно коммичу и развиваю GitHub как портфолио
+- 🎯 Цель — стажировка или junior-позиция в веб-разработке
 
-![Contributions](https://ghchart.rshah.org/Eles007)
+---
+
+### 🚀 Интересы и направления развития
+Мне особенно интересны следующие направления:
+
+- 🧠 **Backend-разработка на PHP**  
+  Серверная логика, работа с формами, базами данных, авторизация и обработка запросов
+
+- ⚡ **JavaScript для интерактивных интерфейсов**  
+  Работа с DOM, валидация форм, динамика страниц, базовая клиентская логика
+
+- 🔗 **Связка frontend + backend**  
+  Отправка данных на сервер, получение и обработка ответов, взаимодействие JS и PHP
+
+- 🛠️ **Pet-проекты и практика**  
+  Небольшие, но законченные проекты, максимально приближенные к реальным задачам
+
+---
+
+### 🛠️ Стек технологий
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Статистика GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eles007&show_icons=true&hide_title=true" />
+</p>
+
+---
+
+### 📈 График активности
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eles007&theme=github-light" />
+</p>
+
+---
+
+### 📌 Что можно найти в моих репозиториях
+- Учебные проекты на PHP
+- Практику по JavaScript (логика, DOM, формы)
+- Примеры взаимодействия frontend и backend
+- Pet-проекты для портфолио
+- Живой процесс обучения и роста
+
+---
+
+### 📫 Контакты
+- GitHub: https://github.com/Eles007
+
+---
+
+⭐ Если вам интересен мой прогресс — буду рад подписке
