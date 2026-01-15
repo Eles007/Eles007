@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eles007&theme=github)
+![Contributions](https://ghchart.rshah.org/Eles007)
